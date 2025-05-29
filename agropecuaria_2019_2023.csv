@@ -1,0 +1,57 @@
+﻿"Tabela 3939 - Efetivo dos rebanhos, por tipo de rebanho - Ranking descendente"
+"Variável - Efetivo dos rebanhos (Cabeças)"
+"#";"Unidade da Federação";"Ano x Tipo de rebanho"
+"#";"Unidade da Federação";"2019";"2020";"2021";"2022";"2023"
+"#";"Unidade da Federação";"Bovino";"Bovino";"Bovino";"Bovino";"Bovino"
+"1";"Mato Grosso";"31654882";"32338031";"32424958";"34246313";"33994004"
+"2";"Goiás";"22823401";"23626608";"24293954";"24410182";"23729878"
+"3";"Minas Gerais";"22020979";"22165606";"22856143";"22993105";"22498415"
+"4";"Pará";"20953429";"22432348";"23921005";"24791060";"25040621"
+"5";"Mato Grosso do Sul";"19407908";"19027086";"18608503";"18433728";"18891916"
+"6";"Rondônia";"14349219";"14804398";"15110301";"17688225";"18162632"
+"7";"Rio Grande do Sul";"11968216";"11128019";"11056530";"11932838";"12012219"
+"8";"São Paulo";"10487012";"10568637";"10718494";"11065605";"10768360"
+"9";"Bahia";"10214863";"9748632";"11755096";"12526243";"13290719"
+"10";"Paraná";"8972546";"8460084";"8084187";"7951680";"8774410"
+"11";"Tocantins";"8480724";"9129804";"10161938";"10772509";"11313309"
+"12";"Maranhão";"8008643";"8323445";"8561509";"9428128";"10128610"
+"13";"Santa Catarina";"4452571";"4532618";"4541890";"4484105";"4540794"
+"14";"Acre";"3509682";"3802112";"4047283";"4635381";"4908956"
+"15";"Rio de Janeiro";"2533164";"2605970";"2674067";"2701143";"2765715"
+"16";"Ceará";"2479289";"2552916";"2607005";"2681690";"2772173"
+"17";"Espírito Santo";"2006027";"2106299";"2213129";"2231036";"2179082"
+"18";"Pernambuco";"1937165";"1882153";"2173313";"2280130";"2456213"
+"19";"Amazonas";"1455842";"1437809";"1496165";"2029011";"2377089"
+"20";"Piauí";"1447817";"1431540";"1421095";"1407772";"1384189"
+"21";"Paraíba";"1293769";"1344094";"1371007";"1371566";"1412480"
+"22";"Alagoas";"1233394";"1290414";"1321236";"1335493";"1437589"
+"23";"Sergipe";"1052263";"1045507";"1090821";"1121930";"1294262"
+"24";"Rio Grande do Norte";"929451";"988134";"1015835";"1059926";"1173351"
+"25";"Roraima";"879007";"925109";"937989";"1133502";"1181553"
+"26";"Distrito Federal";"84425";"84225";"85771";"85544";"83061"
+"27";"Amapá";"54296";"54684";"52768";"53691";"54842"
+"28";"Guanabara";"...";"...";"...";"...";"..."
+"Fonte: IBGE - Pesquisa da Pecuária Municipal"
+
+"Notas"
+"1 - Os municípios sem informação para pelo menos um efetivo de rebanho não aparecem nas listas."
+"2 - Efetivos dos rebanhos em 31/12."
+"3 - Os dados sobre matrizes de suínos só estão disponíveis a partir de 2013.
+4 - Os dados do último ano divulgado são RESULTADOS PRELIMINARES e podem sofrer alterações até a próxima divulgação."
+""
+"Legenda"
+"Símbolo";"Significado"
+"-";"Zero absoluto, não resultante de um cálculo ou arredondamento.
+Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
+"0";"Zero resultante de um cálculo ou arredondamento.
+Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
+Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
+"X";"Valor inibido para não identificar o informante.
+Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
+"..";"Valor não se aplica.
+Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
+"...";"Valor não disponível.
+Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
+"A a Z
+(exceto X)";"Significa uma faixa de valores. Varia em função da tabela (se for o caso).
+Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)"
