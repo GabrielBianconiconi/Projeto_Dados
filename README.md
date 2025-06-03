@@ -11,9 +11,9 @@ Este projeto tem como objetivo investigar a relação entre os focos de queimada
 
 ## 📌 Links Importantes
 
-- 🔗 **Google Colab** (executar o notebook): [https://colab.research.google.com/drive/1M4d53QpVoTIDgUackAqYde5Qn-ieaJZI?usp=sharing]
-- 📈 **Dashboard interativo (Datawrapper/DataFolio)**: [https://www.canva.com/design/DAGpU8fsI3Q/EJxCb2o8szX59XlK9S7P1Q/edit?utm_content=DAGpU8fsI3Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
-- 🎥 **Vídeo explicativo no YouTube**: []
+- 🔗 **[Abrir no Google Colab](https://colab.research.google.com/drive/1M4d53QpVoTIDgUackAqYde5Qn-ieaJZI?usp=sharing)**  
+- 📈 **[DataFolio](https://www.canva.com/design/DAGpU8fsI3Q/EJxCb2o8szX59XlK9S7P1Q/edit?utm_content=DAGpU8fsI3Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**  
+- 🎥 **[Assista ao vídeo explicativo no YouTube](https://www.youtube.com/)**
 
 ## 👨‍💻 Integrantes
 
