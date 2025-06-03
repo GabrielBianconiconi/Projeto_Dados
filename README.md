@@ -1,4 +1,4 @@
-# 🔥 Relação das Queimadas com a Atividade Agropecuária no Brasil
+# 🔥🌳 Relação das Queimadas com a Atividade Agropecuária no Brasil
 
 Este projeto tem como objetivo investigar a relação entre os focos de queimadas no Brasil e as atividades agropecuárias, considerando dados de 2019 a 2023. A análise utiliza dados oficiais do INPE (BDQueimadas) e do IBGE (SIDRA) para avaliar como variáveis como área plantada (soja, milho e cana-de-açúcar) e rebanhos pecuários (bovinos, suínos e galináceos) se relacionam com a incidência de queimadas em cada estado.
 
